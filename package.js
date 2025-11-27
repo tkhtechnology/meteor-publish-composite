@@ -41,7 +41,7 @@ Package.onTest((api) => {
     'meteortesting:mocha@3.2.0'
   ], 'client')
   api.use([
-    'reywood:publish-composite',
+    'cctech:publish-composite',
     'underscore'
   ], 'server')
 
