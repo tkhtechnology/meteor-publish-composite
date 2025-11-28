@@ -1,6 +1,6 @@
 {
   "name": "publish-composite",
-  "version": "1.9.0",
+  "version": "1.9.1-dev.2",
   "private": true,
   "repository": {
     "type": "git",
