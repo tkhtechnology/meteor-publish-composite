@@ -1,6 +1,6 @@
 import { Meteor } from 'meteor/meteor'
 import { Mongo } from 'meteor/mongo'
-import { enableDebugLogging, publishComposite } from 'meteor/reywood:publish-composite'
+import { enableDebugLogging, publishComposite } from 'meteor/cctech:publish-composite'
 
 import { Authors, Groups, Comments, Posts } from './common'
 import { debugLog } from '../lib/logging'
