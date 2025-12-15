@@ -2,7 +2,7 @@
 Package.describe({
   name: 'cctech:publish-composite',
   summary: 'Publish a set of related documents from multiple collections with a reactive join.',
-  version: '1.9.1-dev.1',
+  version: '1.9.1-dev.3',
   git: 'https://github.com/tkhtechnology/meteor-publish-composite'
 })
 
