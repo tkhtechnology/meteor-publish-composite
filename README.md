@@ -2,6 +2,10 @@
 
 `publishComposite(...)` provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive and will update when additions/changes/deletions are made.
 
+## Fork Information
+
+This is a fork of the original [Meteor Community Packages version](https://github.com/Meteor-Community-Packages/meteor-publish-composite). This fork is maintained at: https://github.com/tkhtechnology/meteor-publish-composite
+
 ## Project
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
